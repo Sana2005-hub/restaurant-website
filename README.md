@@ -1,16 +1,19 @@
-# React + Vite
+This project is a responsive restaurant website developed using HTML and Tailwind CSS, designed to deliver a modern, clean, and user-friendly interface. The website includes key sections such as Home, Menu, About, Services, and Contact, ensuring a smooth and intuitive user experience across devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application is deployed using Vercel, providing fast performance, reliable hosting, and continuous deployment directly from GitHub. This project demonstrates practical experience in frontend development, responsive design, and modern deployment workflows.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(1)Fully responsive design for desktop, tablet, and mobile devices
 
-## React Compiler
+(2)Modern UI built using Tailwind CSS utility-first styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+(3)Clean layout with well-structured restaurant sections
 
-## Expanding the ESLint configuration
+(4)Fast loading and optimized performance via Vercel hosting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(5)Continuous deployment from GitHub
+
+Tech Stack:
+HTML | Tailwind CSS | Vercel
+
